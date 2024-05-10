@@ -33,5 +33,17 @@ The previous example means that the content is protected (by Id 0), by the creat
 ## Available Networks 
 For the Monetizado link tag, you have the following list of testnet networks for the Proxy:
 - **arbitrum:sepolia**
+- **base:testnet**
+- **berachain:testnet**
+- **bittorrent:testnet**
+- **bnb:testnet**
+- **botanix:testnet**
+- **etherlink:testnet**
+- **filecoin:testnet**
+- **mode:testnet**
+- **morph:testnet**
+- **opbnb:testnet**
+- **scroll:testnet**
+- **shardeum:testnet**
 
 If you need the Smart Contracts Ids for those networks, you can get them [here](https://github.com/Monetizado/Contracts/blob/main/README.md#contract-ids).
