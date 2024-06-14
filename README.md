@@ -31,7 +31,10 @@ The previous example means that the content is protected (by Id 0), by the creat
 5. If they pay, automatically they will be redirected again to your page and see all the content.
 
 ## Available Networks 
-For the Monetizado link tag, you have the following list of testnet networks for the Proxy:
+For the Monetizado link tag, you have the following list of networks for the Proxy:
+
+### Testnets
+
 - **arbitrum:sepolia**
 - **base:testnet**
 - **berachain:testnet**
@@ -43,9 +46,9 @@ For the Monetizado link tag, you have the following list of testnet networks for
 - **lisk:testnet**
 - **mode:testnet**
 - **morph:testnet**
-- **opbnb:testnet**
-- **scroll:testnet**
-- **shardeum:testnet**
-- **taraxa:testnet**
+
+### Mainnets
+
+- **bittorrent:testnet**
 
 If you need the Smart Contracts Ids for those networks, you can get them [here](https://github.com/Monetizado/Contracts/blob/main/README.md#contract-ids).
