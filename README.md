@@ -50,6 +50,7 @@ For the Monetizado link tag, you have the following list of networks for the Pro
 - **meter:testnet**
 - **mode:testnet**
 - **morph:testnet**
+- **rootstock:testnet**
 - **shido:testnet**
 
 ### Mainnets
