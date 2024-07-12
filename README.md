@@ -43,6 +43,7 @@ For the Monetizado link tag, you have the following list of networks for the Pro
 - **botanix:testnet**
 - **camp:testnetv1**
 - **celo:testnet**
+- **chiliz:testnet**
 - **etherlink:testnet**
 - **filecoin:testnet**
 - **linea:testnet**
