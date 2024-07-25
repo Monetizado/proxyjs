@@ -45,6 +45,7 @@ For the Monetizado link tag, you have the following list of networks for the Pro
 - **celo:testnet**
 - **chiliz:testnet**
 - **core:testnet**
+- **educhain:testnet**
 - **etherlink:testnet**
 - **filecoin:testnet**
 - **linea:testnet**
