@@ -48,6 +48,7 @@ For the Monetizado link tag, you have the following list of networks for the Pro
 - **educhain:testnet**
 - **etherlink:testnet**
 - **filecoin:testnet**
+- **fuse:testnet**
 - **linea:testnet**
 - **lisk:testnet**
 - **meter:testnet**
