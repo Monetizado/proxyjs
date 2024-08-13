@@ -55,6 +55,7 @@ For the Monetizado link tag, you have the following list of networks for the Pro
 - **mode:testnet**
 - **morph:testnet**
 - **rootstock:testnet**
+- **shibarium:testnet**
 - **shido:testnet**
 - **theta:testnet**
 
