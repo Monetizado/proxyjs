@@ -62,6 +62,7 @@ For the Monetizado link tag, you have the following list of networks for the Pro
 - **shibarium:testnet**
 - **shido:testnet**
 - **theta:testnet**
+- **weavevm:testnet**
 
 ### Mainnets
 
