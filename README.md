@@ -55,6 +55,7 @@ For the Monetizado link tag, you have the following list of networks for the Pro
 - **lisk:testnet**
 - **meter:testnet**
 - **mode:testnet**
+- **moonbeam:testnet**
 - **morph:testnet**
 - **neox:testnet**
 - **pwrbtc:testnet**
