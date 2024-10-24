@@ -35,6 +35,7 @@ For the Monetizado link tag, you have the following list of networks for the Pro
 
 ### Testnets
 
+- **aia:testnet**
 - **arbitrum:sepolia**
 - **aurora:testnet**
 - **base:testnet**
